@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/10/24 10:29:04.000.338,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/11/09 15:04:49.000.667,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/11/09 15:05:38.000.099,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/12/04 17:03:02.000.532,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/12/06 11:32:38.000.314,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/12/12 16:23:35.000.814,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/12/13 12:08:46.000.417,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/12/27 15:01:35.000.765,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/07 15:21:14.000.237,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/11 16:27:04.000.567,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/31 17:16:44.000.306,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/06 14:41:27.000.804,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/13 14:20:16.000.608,=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/13 14:44:59.000.856,C:\Componentes - Sistemas Fontes\Código Barras QrCode\Unit1.pas=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/13 14:44:59.000.856,C:\Componentes - Sistemas Fontes\Código Barras QrCode\Unit1.dfm=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/02/13 14:45:01.000.004,C:\Componentes - Sistemas Fontes\Código Barras QrCode\Project1.dproj=C:\Users\itamar.souza\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
